@@ -1,0 +1,11 @@
+echo "bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.db
+.env
+appsettings.Development.json
+appsettings.Production.json
+" > .gitignore
